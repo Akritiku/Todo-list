@@ -12,13 +12,6 @@ A basic **To-Do List Web Application** built using **HTML**, **CSS**, **PHP**, a
 
   ## 📸 Screenshots
 
-| Add Task | Mark Complete | Delete Task |
-|----------|----------------|--------------|
-| ![Add Task](<img width="889" height="750" alt="image" src="https://github.com/user-attachments/assets/1425d394-1407-40a7-9529-5e56b7368b71" />) |
-| ![Mark Complete](<img width="803" height="826" alt="image" src="https://github.com/user-attachments/assets/3fdb6614-239b-46e4-bf63-8e9668c338fc" />) |
-| ![Delete Task](<img width="1269" height="821" alt="image" src="https://github.com/user-attachments/assets/c7d1886f-d902-4e2c-a330-d074ebb6a8de" />) |
-
-
 # Added Task
 <img width="1050" height="848" alt="image" src="https://github.com/user-attachments/assets/57023bd9-11be-4501-9372-6064d93a21bf" />
 <img width="1521" height="848" alt="image" src="https://github.com/user-attachments/assets/1ad91a3b-489b-4921-9ee8-40a8c59cef14" />
